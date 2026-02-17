@@ -1,13 +1,6 @@
 {
-.appVersion = "3323";
+.appVersion = "3436";
 .formatVersion = 3;
-DisplayStrings = (
-"gğ̒ģģ̇ġğ",
-"/macroncomb.case ĀH́á",
-"ÁĂǍÂÄÀ/macroncomb.case ĀĄÅÃ",
-"˛",
-"¨˙`´˝ˆˇ˘˚˜¯¸˛"
-);
 axes = (
 {
 name = Weight;
@@ -33353,33 +33346,32 @@ unicode = 8308;
 },
 {
 glyphname = space;
-lastChange = "2024-04-08 14:02:27 +0000";
+lastChange = "2026-02-17 09:45:33 +0000";
 layers = (
 {
 layerId = "BD1314B0-2F62-4F06-89D3-8B766BA843F0";
-width = 307;
+width = 250;
 },
 {
 layerId = "897F30B6-1700-43C7-9C60-A606C7C7F267";
-width = 307;
+width = 250;
 }
 );
 unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2024-09-13 23:12:04 +0000";
+lastChange = "2026-02-17 09:45:33 +0000";
 layers = (
 {
 layerId = "BD1314B0-2F62-4F06-89D3-8B766BA843F0";
-width = 307;
+width = 250;
 },
 {
 layerId = "897F30B6-1700-43C7-9C60-A606C7C7F267";
-width = 307;
+width = 250;
 }
 );
-metricWidth = "=space";
 unicode = 160;
 },
 {
